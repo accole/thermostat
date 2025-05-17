@@ -1,0 +1,1290 @@
+{
+    "lifts": [
+        {
+            "Id": 791,
+            "Name": "Canyon Express 16",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 793,
+            "Name": "Chair 20",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 794,
+            "Name": "Chair 21",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 795,
+            "Name": "Chair 22",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 782,
+            "Name": "Chair 7",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 783,
+            "Name": "Chair 8",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 780,
+            "Name": "High 5 Express",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 779,
+            "Name": "Roller Coaster Express 4",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 792,
+            "Name": "Schoolyard Express 17",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 800,
+            "Name": "Village Gondola",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 797,
+            "Name": "Chair 25",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 784,
+            "Name": "Cloud Nine Express 9",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 790,
+            "Name": "Eagle Express 15",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 776,
+            "Name": "Broadway Express 1",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 787,
+            "Name": "Chair 12",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 788,
+            "Name": "Chair 13",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 789,
+            "Name": "Chair 14",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 796,
+            "Name": "Chair 23",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 786,
+            "Name": "Discovery Express 11",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 778,
+            "Name": "Face Lift Express 3",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 785,
+            "Name": "Gold Rush Express 10",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 798,
+            "Name": "Panorama Lower",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 799,
+            "Name": "Panorama Upper",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 777,
+            "Name": "Stump Alley Express 2",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        },
+        {
+            "Id": 781,
+            "Name": "Unbound Express 6",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "expected"
+        }
+    ],
+    "trails": [
+        {
+            "Id": 4938,
+            "Name": "Antin Alley / Chickadee",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4927,
+            "Name": "Avalanche",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4928,
+            "Name": "Avalanche Chutes",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4930,
+            "Name": "Back for More (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4931,
+            "Name": "Big Bird",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5106,
+            "Name": "Big Bird Uphill Route",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4933,
+            "Name": "Bluejay",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5107,
+            "Name": "Canyon Lodge Uphill Route",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4943,
+            "Name": "Cloverleaf",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4949,
+            "Name": "Crosswalk",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4951,
+            "Name": "Downhill (Lower)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4952,
+            "Name": "Downhill (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4961,
+            "Name": "Encore",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4964,
+            "Name": "Face of Five (Lower)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4965,
+            "Name": "Face of Five (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4967,
+            "Name": "Follow Me",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4968,
+            "Name": "Ginger Bread",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4975,
+            "Name": "Grizzly (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4976,
+            "Name": "Grizzly Lower",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4978,
+            "Name": "Hansel",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4979,
+            "Name": "Haven't the Foggiest",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4982,
+            "Name": "Huck's Drop",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4984,
+            "Name": "Hully Gully",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5082,
+            "Name": "Jibs & More",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4989,
+            "Name": "Little Bird",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4997,
+            "Name": "Milk Run",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5011,
+            "Name": "Quicksilver",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5014,
+            "Name": "Redtail",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5015,
+            "Name": "Redwing",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5016,
+            "Name": "Relief",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5017,
+            "Name": "Repeat 22",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5026,
+            "Name": "Roller Coaster (Lower)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5027,
+            "Name": "Roller Coaster (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5029,
+            "Name": "Round About",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5030,
+            "Name": "Round Robin",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5033,
+            "Name": "Sanctuary",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5036,
+            "Name": "School Yard",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5040,
+            "Name": "Shaft",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5041,
+            "Name": "Side Show",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5112,
+            "Name": "Skiback Trail Uphill Route",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5045,
+            "Name": "Sliver",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5084,
+            "Name": "Snake Run",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5047,
+            "Name": "Solitude (Lower)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5048,
+            "Name": "Solitude (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5085,
+            "Name": "South Park",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5049,
+            "Name": "Spring Canyon",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5054,
+            "Name": "Sunset",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5055,
+            "Name": "Sunshine Glades",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5057,
+            "Name": "Swell",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5059,
+            "Name": "The Acts",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5087,
+            "Name": "Transition Park",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5062,
+            "Name": "Triangle",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5064,
+            "Name": "Village Ski Back Trail",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5066,
+            "Name": "Viva (Lower)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5065,
+            "Name": "Viva (Upper)",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5071,
+            "Name": "Way Home",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5088,
+            "Name": "Wonderland Playground",
+            "MountainAreaName": "Canyon Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5859,
+            "Name": "Baby Dave's Glades",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4929,
+            "Name": "Back for More (Lower)",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4934,
+            "Name": "Bridges",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4941,
+            "Name": "Christmas Tree",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4950,
+            "Name": "Dave's Run",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4953,
+            "Name": "Dragon Alley",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4954,
+            "Name": "Dragon's Back",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5861,
+            "Name": "Dragon's Pass",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4955,
+            "Name": "Dragon's Tail",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5108,
+            "Name": "Eagle Lodge Uphill Route",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5080,
+            "Name": "Eagle Playground",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4970,
+            "Name": "Goldhill (Lower)",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4971,
+            "Name": "Goldhill (Upper)",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4972,
+            "Name": "Goldie's Flight",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4980,
+            "Name": "Head Chutes",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4981,
+            "Name": "Holiday",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4986,
+            "Name": "Juniper",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4993,
+            "Name": "Lupin",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5863,
+            "Name": "Main Traverse",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4996,
+            "Name": "Manzanita",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5010,
+            "Name": "Pumpkin",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5018,
+            "Name": "Ricochet (Lower)",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5019,
+            "Name": "Ricochet (Upper)",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5865,
+            "Name": "Roma's Glades",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5869,
+            "Name": "Roma's Road",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5044,
+            "Name": "Sleepy Hollow",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5046,
+            "Name": "Slot",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5070,
+            "Name": "Watertank",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5072,
+            "Name": "Wazoo",
+            "MountainAreaName": "Eagle Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4922,
+            "Name": "Agee's Run",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4923,
+            "Name": "Andy's Double Gold",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4924,
+            "Name": "Apple Pie",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4925,
+            "Name": "Arriba (Lower)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4926,
+            "Name": "Arriba (Upper)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4932,
+            "Name": "Blue Ox",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5860,
+            "Name": "Breakover",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 4935,
+            "Name": "Bristlecone",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4936,
+            "Name": "Broadway",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4937,
+            "Name": "Center Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4939,
+            "Name": "China Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4940,
+            "Name": "Christmas Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4942,
+            "Name": "Climax",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4944,
+            "Name": "Comeback Trail",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4945,
+            "Name": "Comin' Thru",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4946,
+            "Name": "Cornice Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4947,
+            "Name": "Coyote",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4948,
+            "Name": "Critters",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5079,
+            "Name": "Disco Playground",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4956,
+            "Name": "Drop 18",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4957,
+            "Name": "Dropout Chutes",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5858,
+            "Name": "Dry Creek",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4992,
+            "Name": "Dry Creek (Lower)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4958,
+            "Name": "Dry Creek (Upper)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4960,
+            "Name": "Easy Rider",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4962,
+            "Name": "Europa Cup",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4963,
+            "Name": "Exhibition",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5081,
+            "Name": "Forest Trail",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4969,
+            "Name": "Glades",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4973,
+            "Name": "Gravy Chute",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4974,
+            "Name": "Gremlins Gulch",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4977,
+            "Name": "Hangman's Hollow",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5862,
+            "Name": "Hollywood Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4983,
+            "Name": "Huevos Grande",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5259,
+            "Name": "Jill's Pipe",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4985,
+            "Name": "Jill's Run",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5109,
+            "Name": "Jill's Run Uphill Route",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4987,
+            "Name": "Kiwi Flats",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4988,
+            "Name": "Knee Deep",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4990,
+            "Name": "Lodgepole",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4991,
+            "Name": "Lost in the Woods",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5110,
+            "Name": "Lost in the Woods (Lower) Uphill Route",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5111,
+            "Name": "Lost in the Woods (Upper) Uphill Route",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4998,
+            "Name": "MJB's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5083,
+            "Name": "Main Park",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5260,
+            "Name": "Main Pipe",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5557,
+            "Name": "Mambo (Lower)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4995,
+            "Name": "Mambo (Upper)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 4999,
+            "Name": "Monument",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5000,
+            "Name": "New Critters",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5001,
+            "Name": "Old Comeback",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5002,
+            "Name": "Oops",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5003,
+            "Name": "Outpost Glades",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5004,
+            "Name": "Over Easy",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5868,
+            "Name": "Paranoid Chutes",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5005,
+            "Name": "Paranoid Flats",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5006,
+            "Name": "Patrolmen's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5007,
+            "Name": "Phantom's Escape",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5008,
+            "Name": "Philippe's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5009,
+            "Name": "Ponderosa",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5012,
+            "Name": "Ralphie's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5013,
+            "Name": "Reds Lake Run",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5864,
+            "Name": "Ricardo's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5020,
+            "Name": "Rigley's Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5021,
+            "Name": "Road Runner (Middle)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5022,
+            "Name": "Road Runner (Upper)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5023,
+            "Name": "Road Runner Lower (Bottom Half)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5024,
+            "Name": "Road Runner Lower (Top Half)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5025,
+            "Name": "Rodger's Ridge",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5028,
+            "Name": "Rooster Tail",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5031,
+            "Name": "Rusty's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5032,
+            "Name": "Saddle Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5034,
+            "Name": "Santiago",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5035,
+            "Name": "Santiago Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5037,
+            "Name": "Scotty's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5038,
+            "Name": "Secret Spot",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5039,
+            "Name": "Sesame Street",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5042,
+            "Name": "Silver Tip",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5043,
+            "Name": "Skyline",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5050,
+            "Name": "St. Anton",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5051,
+            "Name": "St. Moritz",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5052,
+            "Name": "Starr Chute",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5053,
+            "Name": "Stump Alley",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5056,
+            "Name": "Surprise",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5058,
+            "Name": "Terry's Run",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5866,
+            "Name": "The Bear",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5060,
+            "Name": "The Hemlocks",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5086,
+            "Name": "The Hemlocks (Terrain Features)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 4966,
+            "Name": "Tony's / Fascination",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5867,
+            "Name": "Top of the World",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5061,
+            "Name": "Training Wheels",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5063,
+            "Name": "Twilight Zone",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5067,
+            "Name": "Wall",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5068,
+            "Name": "Wall Street",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5069,
+            "Name": "Walter's",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5073,
+            "Name": "West Bowl",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5113,
+            "Name": "West Summit Uphill Route",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed_for_season"
+        },
+        {
+            "Id": 5857,
+            "Name": "Whitebark Bowl (Lower)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5075,
+            "Name": "Whitebark Bowl (Upper)",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "closed"
+        },
+        {
+            "Id": 5074,
+            "Name": "Whitebark Ridge",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5076,
+            "Name": "Wipeout Chutes",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5077,
+            "Name": "Woolly's Woods",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        },
+        {
+            "Id": 5078,
+            "Name": "World Cup",
+            "MountainAreaName": "Main Lodge",
+            "StatusEnglish": "open"
+        }
+    ]
+}

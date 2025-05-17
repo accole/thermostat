@@ -1,11 +1,21 @@
 import utils
+import datetime
 
 MAMMOTH_RESORT_ID = "60"
 API_BASE_URL = f"https://www.mtnpowder.com/feed"
 
-def clean(list, filter_keys=['Id', 'Name', 'MountainAreaName', 'StatusId', 'Status'], sort_fn=lambda x: (x['MountainAreaName'], x['Name'])):
+def clean(list, filter_keys=['Id', 'Name', 'MountainAreaName', 'StatusEnglish'], sort_fn=lambda x: (x['MountainAreaName'], x['Name'])):
     filtered = utils.filter_object_keys(list, filter_keys)
     return sorted(filtered, key=sort_fn)
+
+# def create_status_map(list):
+#     map = {}
+#     for item in list:
+#         status_id = item.get("StatusId")
+#         status_description = item.get("StatusEnglish")
+#         if status_id not in map:
+#             map[status_id] = status_description
+#     return map
 
 def main():
     print("Checking lift and trail status ...")
@@ -25,11 +35,17 @@ def main():
         if area.get('OpenTrailsCount') > 0:
             lifts.extend(area.get('Lifts'))
             trails.extend(area.get('Trails'))
-    
-    timestamp = utils.now()
-    
-    utils.save(f"outputs/lifts-{timestamp}.json", clean(lifts))
-    utils.save(f"outputs/trails-{timestamp}.json", clean(trails))
+
+    output = {
+        'lifts': clean(lifts),
+        'trails': clean(trails)
+    }
+
+    today = datetime.date.today().strftime('%Y-%m-%d')
+    utils.save(f"outputs/{today}.json", output)
+
+    # status = create_status_map(lifts) | create_status_map(trails)
+    # utils.save(f"outputs/status-{today}.json", utils.alphabetize(status))
 
     return
 

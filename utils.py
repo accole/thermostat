@@ -55,3 +55,8 @@ def filter_object_keys(list_of_objects, keys_to_keep):
       A new list containing objects with only the specified keys.
     """
     return [{k: obj[k] for k in keys_to_keep if k in obj} for obj in list_of_objects]
+
+def alphabetize(dict):
+    keys = list(dict.keys())
+    keys.sort()
+    return {i: dict[i] for i in keys}
