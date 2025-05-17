@@ -1,1 +1,1 @@
-# thermostat
+# Mammoth Scripts

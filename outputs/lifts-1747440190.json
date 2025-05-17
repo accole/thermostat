@@ -1,0 +1,177 @@
+[
+    {
+        "Id": 791,
+        "Name": "Canyon Express 16",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 793,
+        "Name": "Chair 20",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 794,
+        "Name": "Chair 21",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 795,
+        "Name": "Chair 22",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 782,
+        "Name": "Chair 7",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 783,
+        "Name": "Chair 8",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 780,
+        "Name": "High 5 Express",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 779,
+        "Name": "Roller Coaster Express 4",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 1,
+        "Status": "Closed"
+    },
+    {
+        "Id": 792,
+        "Name": "Schoolyard Express 17",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 800,
+        "Name": "Village Gondola",
+        "MountainAreaName": "Canyon Lodge",
+        "StatusId": 1,
+        "Status": "Closed"
+    },
+    {
+        "Id": 797,
+        "Name": "Chair 25",
+        "MountainAreaName": "Eagle Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 784,
+        "Name": "Cloud Nine Express 9",
+        "MountainAreaName": "Eagle Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 790,
+        "Name": "Eagle Express 15",
+        "MountainAreaName": "Eagle Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 776,
+        "Name": "Broadway Express 1",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 787,
+        "Name": "Chair 12",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 788,
+        "Name": "Chair 13",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 789,
+        "Name": "Chair 14",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 9,
+        "Status": "Closed for Season"
+    },
+    {
+        "Id": 796,
+        "Name": "Chair 23",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 786,
+        "Name": "Discovery Express 11",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 778,
+        "Name": "Face Lift Express 3",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 785,
+        "Name": "Gold Rush Express 10",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 1,
+        "Status": "Closed"
+    },
+    {
+        "Id": 798,
+        "Name": "Panorama Lower",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 799,
+        "Name": "Panorama Upper",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 777,
+        "Name": "Stump Alley Express 2",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    },
+    {
+        "Id": 781,
+        "Name": "Unbound Express 6",
+        "MountainAreaName": "Main Lodge",
+        "StatusId": 12,
+        "Status": "Expected"
+    }
+]
